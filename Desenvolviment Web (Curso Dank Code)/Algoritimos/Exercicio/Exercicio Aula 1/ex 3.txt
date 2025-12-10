@@ -1,0 +1,14 @@
+Quero abri meu cofre:
+    O cofre esta aberto( destrancado ):
+        se sim:
+            Desconfie mais abra a poorta.
+        Se não:
+            Vc lembra do codigo para abrir:
+             se sim:
+                 Ponha o codigo e abra a porta.
+             Se Não:
+                 Vc anotou co codigo:
+                     Se sim:
+                         procure e ponha o codigo para abrir a  porta.
+                     Se não:
+                         Se Fudeu perdeu o seu dinheiro.

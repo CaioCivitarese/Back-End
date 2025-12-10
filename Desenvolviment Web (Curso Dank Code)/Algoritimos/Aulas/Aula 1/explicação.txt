@@ -1,0 +1,17 @@
+Como penssar como Programador
+
+-Pebse em etapas
+-Pense nas ações da cada etapa.
+
+--------------
+
+Quero atravesar a rua.
+1) Estar na facha de opedestre.
+    {
+    Estou na faixa:
+        Os carros Pararam:
+            Ação Final: Posso atravesar!
+    }
+    Não esta na facha de pedestre
+        Temos que ir a faixa de pedestre.
+        Enquanto não chegar na faixa, continue ate chegar.

@@ -1,0 +1,22 @@
+Obijetivo: Jantar
+
+--- Estar em casa. 
+         Estou com fome?
+             Se Sim:
+                 Okay.
+                     Temos comida?
+                         Se sim:
+                             Okay,vamos Jantar.
+                         Se Não:
+                             Temos que compara comida.
+                                Temos dinheiro?
+                                     Se sim:
+                                         vamos ao supermarcado.
+                                     Se Não:
+                                         Vai trabalhar seu pobre.      
+            Se Não:
+                 Que tal mais tarde.
+
+--- Se não estiver em casa, tenho que ir para casa.
+         cheguei em casa:
+             Okay execotamos as mesmas ações do primeiro.

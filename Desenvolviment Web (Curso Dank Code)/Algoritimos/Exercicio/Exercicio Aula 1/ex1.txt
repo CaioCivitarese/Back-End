@@ -1,0 +1,7 @@
+Quero tomar banho.
+    Estou no banheiro:
+      Estou de roupa no corpo:
+        Se não etiver:
+            Posso tomar banho.
+        se estiver:
+            Tire a roupa do corpo.      

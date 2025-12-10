@@ -1,0 +1,13 @@
+Quero abrir a porta de casa.
+A porta esta trancada:
+    Se sim pegue a chave:
+       A chave esta com vc:
+         Se sim pegue.
+         Se  não:
+            Veja se esta no seu bolso
+                 Se estuiver:
+                     Peguia e abra a porta.
+                 Se Não estiver:
+                    Voce perdeu a chave.
+            
+    Se não abra a porta.   

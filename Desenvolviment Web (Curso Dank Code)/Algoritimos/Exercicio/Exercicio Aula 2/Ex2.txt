@@ -1,0 +1,19 @@
+Obijetivo: ir para edicaão fisica.
+
+Vc esta na escola?
+     Se sim:
+         esta na hora da aula de educação fisica:
+             Se Sim:
+                 O Profesor chegou na sua sala?
+                     Se Sim:
+                         Pessa a ele para decer para quadra para comesar a aula.
+                             Se ele diser ok:
+                                 Va ate a chadar e comese a aula.
+                             Se ele pedir para espera:
+                                 Espere calmamenste ate ele diser para decer.
+                     Se Não:
+                         Espere ele chegar na sua sala.
+             Se Não:
+                 Espere dar hora da sua aula.
+     Se Não:
+         Va ate a sua escola       

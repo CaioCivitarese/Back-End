@@ -1,0 +1,11 @@
+Obijetivo: Vamos ao recreio da escola.
+
+Estou na escola?
+     Se sim:
+         Ta na hora de decer para o recreio?
+              Se Sim:
+                 desa para o recreio junto com seu amigos.
+              Se Não:
+                    espere a Hora do recreio chegar para decer.
+     Se não:
+         Va ate a escola.

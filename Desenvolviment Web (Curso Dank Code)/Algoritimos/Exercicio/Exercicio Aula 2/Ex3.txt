@@ -1,0 +1,32 @@
+Objetivo: ir ate o local de comemoração do natal.
+
+Vc esta em casa:
+     Se Sim:
+         esta pronto para sair?
+             Se Sim:
+                 esta de carro?
+                     Se estiver:
+                         Va te o local de comemoração da festa de natal.
+             Se Não:
+                 Se arume.
+     Se Não:
+         Daonde vc esta vc esta pronto para sair?
+             Se Sim:
+                esta de carro?
+                     Se Sim:
+                         Va ate sua casa, se aruame, e va ate o local da comemoração.
+             Se Não:
+              esta de carro para poder ir ate sua cassa para se arumar?
+                 Se Sim:
+                    Va ate sua acas para se arumar.
+                        vc seta pronto?
+                             Se Sim:
+                                 Va ate ate a festa de natal.
+                             Se Não:
+                                 Se arume e quando estiver pronto va ate o local da festa de natal.
+                 Se Não:
+                     tem dinheiro para pegar um uber?
+                         Se Sim:
+                             Pegue um uber ate sua casa, se arume e va ate o local da festa.
+                         Se Não:
+                             Se fudeu Não vai poder comemora a noite de natal.

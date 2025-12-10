@@ -1,0 +1,27 @@
+--- Formulario de Cadastro
+
+Usuariuo envio o formulario
+{
+    1 - e-mail esta correto?
+    se estiver
+    {
+        Nome esta correto?
+        se estiver
+        {
+            cpf esta correto
+            se estiver
+            {
+                realizar cadastro
+            }se não
+            {
+                apresentar mensagem dizendo que esta errado!
+            }
+        }se não
+        {
+            apresentar mensagem dizendo que esta errado!
+        }
+    }se não
+    {
+        apresentar mensagem dizendo que seta errado!
+    }    
+}

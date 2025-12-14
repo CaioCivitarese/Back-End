@@ -7,5 +7,5 @@
 
     echo "Meu nome e $nome";
 
-    echo "<div class=\"$nomeDaClasse\";
+    echo "<div class=\"$nomeDaClasse\"> Meu Conteudo da div </div> ";
 ?>

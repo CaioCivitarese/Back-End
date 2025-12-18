@@ -1,0 +1,16 @@
+Orientação a Objetos no PHP ou OOP
+
+    define();
+    variaveis
+    func();
+
+    Pessoa
+    {
+
+        nome
+        idade
+        Pessoa
+
+        crescer()
+        comer()
+    }

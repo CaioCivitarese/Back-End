@@ -10,7 +10,7 @@
     }
 
     class Principal2{
-        public static function outroMetudoEstatico{
+        public static function outroMetudoEstatico(){
             echo "Meu outro metudo";
         }
     }

@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c516d45-0ea3-42a7-b974-ff66eacd26c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Curso em Video/Exercicio/Ex 1/Tar 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Curso em Video/Exercicio/Ex 2/Tar 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Curso em Video/Aula  3/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Curso em Video/Aulas/Aula  3/index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Curso em Video/Aula 4/Desafio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Curso em Video/Aulas/Aula 4/Desafio1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Curso em Video/Aula 4/Desafio2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Curso em Video/Aulas/Aula 4/Desafio2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Curso em Video/Aula 4/Desafio3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Curso em Video/Aulas/Aula 4/Desafio3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Curso em Video/Aula 4/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Curso em Video/Aulas/Aula 4/index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Curso em Video/Aula 5/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Curso em Video/Aulas/Aula 5/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Aulas/Aula 4/Index3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Aulas/Aula 4/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Aulas/Aula 4/index2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Aulas/Aula 4/index4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Aulas/Aula 4/index5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Aulas/Aula 5/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,16 +21,24 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="37NxxnK2tvnhjLT3OhcmpYfpmZC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,8 +46,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.Arquivo1.js.executor": "Run",
+    "Node.js.Arquivo2.js.executor": "Run",
+    "Node.js.Index3.js.executor": "Run",
+    "Node.js.index.js.executor": "Run",
+    "Node.js.index2.js.executor": "Run",
+    "Node.js.index4.js.executor": "Run",
+    "Node.js.index5.js.executor": "Run",
     "Python.Desafio1.executor": "Run",
     "Python.Tar 1.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -79,6 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1766757579816</updated>
       <workItem from="1766757581152" duration="4655000" />
+      <workItem from="1766769825169" duration="3423000" />
     </task>
     <servers />
   </component>

@@ -5,17 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c516d45-0ea3-42a7-b974-ff66eacd26c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Javascript/Aulas/Aula 4/Index3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Aulas/Aula 4/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Aulas/Aula 4/index2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Aulas/Aula 4/index4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Aulas/Aula 4/index5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javascript/Aulas/Aula 5/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desenvolviment Web (Curso Dank Code)/Banco de dados e PHP/Aulas/Aula 2/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Desenvolviment Web (Curso Dank Code)/Banco de dados e PHP/Aulas/Aula 2/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript/Aulas/Aula 5/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/Aulas/Aula 5/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,6 +32,8 @@
     <commands />
     <urls />
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -53,6 +55,7 @@
     "Node.js.index2.js.executor": "Run",
     "Node.js.index4.js.executor": "Run",
     "Node.js.index5.js.executor": "Run",
+    "PHP Script.index.php.executor": "Run",
     "Python.Desafio1.executor": "Run",
     "Python.Tar 1.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -63,6 +66,8 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/caiochivis/www/Back-End",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,6 +75,11 @@
     "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -80,8 +90,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
-        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PS-253.29346.151" />
+        <option value="bundled-php-predefined-a98d8de5180a-0e0d91225499-com.jetbrains.php.sharedIndexes-PS-253.29346.151" />
       </set>
     </attachedChunks>
   </component>
@@ -94,6 +104,9 @@
       <updated>1766757579816</updated>
       <workItem from="1766757581152" duration="4655000" />
       <workItem from="1766769825169" duration="3423000" />
+      <workItem from="1766842930114" duration="298000" />
+      <workItem from="1766844453816" duration="120000" />
+      <workItem from="1766845436315" duration="2651000" />
     </task>
     <servers />
   </component>

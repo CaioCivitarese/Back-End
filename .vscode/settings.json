@@ -5,5 +5,6 @@
             "envManager": "ms-python.python:venv",
             "packageManager": "ms-python.python:pip"
         }
-    ]
+    ],
+    "livePreview.defaultPreviewPath": "/Javascript/Aulas/Aula 20/index.html"
 }

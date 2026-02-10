@@ -12,16 +12,20 @@ const form = document.querySelector('.form');
 
 form.addEventListener('submit', function (evento){
     evento.preventDefault();
-    const inputIdade = Number(inputIdade.value);
-    return inputIdade;
-});
+    const inputIdade = evento.target.querySelector('.idade');
+    const idade = Number(inputIdade.value);
 
-function metrica(){
-    if (inputIdade <= 3){
-        const infacia1 = document.innerHTML('Você esta na Primeira infância');
-        return infacia1;
+    function metrica(){
+    if (idade <= 3){
+        const resposta = document.appendChild(msg);
+        const msg = criarP.appendChild(resposta)
+        return msg;
     }
 }
+});
+
+
+
 
 function criarP(){
     const evento = document.createElement('p');
@@ -36,9 +40,9 @@ function resposta(msg, isValid){
     const p = criarP();
 
     if (!altura){
-        p.classList('certo')
+        p.classList('certo');
     }else {
-        p.classList('invalido')
-        document.innerHTML('Isso n e um numero!')
+        p.classList('invalido');
+        document.innerHTML('Isso n e um numero!');
     }
 }

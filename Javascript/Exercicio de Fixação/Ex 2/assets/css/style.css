@@ -56,3 +56,16 @@ form button {
 form button:hover {
   background: var(--primary-color-darker);
 }
+
+.certo, .invalido{
+  padding: 10px;
+}
+
+.verde{
+  background-color: gray;
+  border-radius: 10px;
+}
+
+.invalido{
+  background-color: rgb(255, 19, 19);
+}

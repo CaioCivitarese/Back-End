@@ -1,0 +1,56 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: white;
+}
+
+.fundoMaior {
+    margin: 15%;
+    margin-top: 2%;
+    padding: 1%;
+    background-color: #333333b6;
+    border-radius: 10px;
+}
+
+.fundoCentral {
+    padding: 10%;
+    background-color: #fffcfcf6;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+p {
+    font-weight: bolder;
+    font-size: 25px;
+}
+form {
+    font-size: 20px;
+    padding: 2%;
+}
+
+form input {
+    margin: 1% 20%;
+    height: 20px;
+    width: 75%;
+}
+
+form button{
+    color: white;
+    border: none;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 2%;
+    padding-left:50%;
+    padding-right: 50%;
+    height: 30px;
+    width: max-content;
+    background-color: blue;
+    border-radius: 5px;
+}

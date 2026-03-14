@@ -1,4 +1,6 @@
-// i - index
-for (let i = 0; i <= 5; i++) {
-    console.log(`Linha ${i}`)
+const frutas = ["Maçã", "Pera", "Uva", "Luiz", "Otavio", "João", "Miranda"];
+
+
+for (let i = 0; i < frutas.length; i ++) {
+    console.log(`Indice ${i}`,frutas[i]);
 }

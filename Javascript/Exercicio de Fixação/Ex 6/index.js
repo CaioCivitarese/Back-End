@@ -9,7 +9,7 @@
     Retorne o dobro.
 */
 
-const numero = 5;
+const numero = 2;
 
 function dobro(){
     const d = numero ** 2;

@@ -66,5 +66,9 @@ const g1 = geradora1();
 console.log(g1.next().value);
 console.log(g1.next().value);
 console.log(g1.next());
+<<<<<<< Updated upstream
 console.log(g1.next());
 */
+=======
+
+>>>>>>> Stashed changes

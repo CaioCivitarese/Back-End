@@ -1,0 +1,1 @@
+# Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua aria e a quantidade de litros de tinta necessaria para pintar-la, sabendo que cada litro de tinta, pinta uma aria de 2m².

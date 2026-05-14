@@ -1,0 +1,1 @@
+# Faça um algoritomo que leia o salario de um funcionaria e motre seu novo salario, com 15% de aumento.

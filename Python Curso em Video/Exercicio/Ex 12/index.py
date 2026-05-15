@@ -2,4 +2,4 @@
 
 n1 = int(input('Escreva o preço atual: '))
 
-desconto = 
+print(n1 * 5/100) 

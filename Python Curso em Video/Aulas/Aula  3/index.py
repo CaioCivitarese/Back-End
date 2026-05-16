@@ -1,1 +1,0 @@
-print('Estou aprendendo Python na Curso em Vídeo')

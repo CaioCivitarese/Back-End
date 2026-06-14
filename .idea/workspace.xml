@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e19e7c65-4ea1-4d17-9dd1-996beea5b76c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e19e7c65-4ea1-4d17-9dd1-996beea5b76c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +35,7 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/caiofariacivitarese/Documentos/Back-End",
+    "last_opened_file_path": "/home/caiofariacivitarese/Documentos/Exercicios para Desafio da pucc",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -97,6 +95,7 @@
       <workItem from="1772289316052" duration="220000" />
       <workItem from="1772289644567" duration="95000" />
       <workItem from="1778949059025" duration="1484000" />
+      <workItem from="1780076946760" duration="50000" />
     </task>
     <servers />
   </component>

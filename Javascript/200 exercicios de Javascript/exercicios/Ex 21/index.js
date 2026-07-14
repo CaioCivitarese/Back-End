@@ -1,0 +1,9 @@
+/*
+Exercício 21: 
+    Escreva um programa que determina a estação do ano com
+    base no mês.
+Descrição: 
+    Neste exercício, você criará uma função que recebe um número de 1 a 12
+    (representando os meses de janeiro a dezembro) e imprimirá a estação do ano
+    correspondente.
+*/

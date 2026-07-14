@@ -9,4 +9,43 @@ Descrição:
     não votam.
 */
 
+function voto(Idade){
+    if ((Idade >= 16 && Idade < 18) || Idade > 70){
+        console.log('Seu voto e opicional');
 
+    }else if (Idade >= 18 && Idade <= 70){
+        console.log('Seu voto em obrigatorio');
+
+    }else{
+        console.log('Você não pode votar');
+
+    }
+
+}
+
+voto(70);
+
+/*
+    Resolução:
+        function   podeVotar (idade) { 
+            if (idade >= 18  && idade < 70 ) { 
+                console .log( "Voto obrigatório." ); 
+        } else   if ((idade >= 16  && idade < 18 ) || idade >= 70 ) { 
+                console .log( "Voto facultativo." ); 
+        } else  { 
+                console .log( "Não vota." ); 
+        } 
+        } 
+        podeVotar( 15 );   // Imprime: Não vota. 
+        podeVotar( 16 );   // Imprime: Voto facultativo. 
+        podeVotar( 18 );   // Imprime: Voto obrigatório. 
+        podeVotar( 70 );   // Imprime: Voto facultativo.
+    Explicação:
+        A função podeVotar recebe uma idade como argumento e, então, usa uma
+        estrutura de controle if/else if/else para determinar a obrigatoriedade do voto para essa
+        idade. Se a idade for maior ou igual a 18 e menor que 70, a função imprime "Voto
+        obrigatório.". Se a idade for maior ou igual a 16 e menor que 18, ou maior ou igual a 70,
+        a função imprime "Voto facultativo.". Caso contrário, a função imprime "Não vota.".
+        Quando chamamos a função com as idades 15, 16, 18 e 70, podemos ver essa lógica em
+        ação.
+*/

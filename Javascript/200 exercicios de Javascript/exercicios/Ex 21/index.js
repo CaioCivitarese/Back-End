@@ -9,20 +9,44 @@ Descrição:
 */
 
 function estacaoDoAno(num){
-    if(num === 1 && num === 2 && num === 12){
+    if(num === 1 || num === 2 || num === 12){
         console.log("Verão");
 
-    }else if(num === 3 && num === 4 && num === 5){
+    }else if(num === 3 || num === 4 || num === 5){
         console.log("Outono");
 
-    }else if(num === 6 && num === 7 && num === 8){
+    }else if(num === 6 || num === 7 || num === 8){
         console.log("Inverno");
 
-    }else if(num === 9 && num === 10 && num === 11){
+    }else if(num === 9 || num === 10 || num === 11){
         console.log("Primavera");
-    }else{
-        console.log("Valor solicitado invalido");
     }
 }
 
-estacaoDoAno(11);
+estacaoDoAno(5);
+
+/*
+    Resolução:
+        function   determinarEstacao (mes) { 
+            if  (mes < 3  || mes === 12 ) { 
+                console .log( "Verão" ); 
+        } else   if  (mes < 6 ) { 
+                console .log( "Outono" ); 
+        } else   if  (mes < 9 ) { 
+                console .log( "Inverno" ); 
+        } else  { 
+                console .log( "Primavera" ); 
+        } 
+        } 
+        determinarEstacao( 12 );   // Imprime: Verão 
+        determinarEstacao( 4 );   // Imprime: Outono 
+        determinarEstacao( 7 );   // Imprime: Inverno 
+        determinarEstacao( 10 );   // Imprime: Primavera
+    Explicação: 
+        A função determinarEstacao recebe um número representando um mês
+        como argumento. Se o número for menor que 3 ou igual a 12 (janeiro, fevereiro ou
+        dezembro), a função imprime "Verão". Se o número for menor que 6 (março, abril ou
+        maio), a função imprime "Outono". Se o número for menor que 9 (junho, julho ou
+        agosto), a função imprime "Inverno". Caso contrário (setembro, outubro ou novembro),
+        a função imprime "Primavera".
+*/

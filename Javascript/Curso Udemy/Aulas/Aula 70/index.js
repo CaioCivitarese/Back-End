@@ -74,7 +74,7 @@ function Pessoa(nome, sobrenome){
 
 }
 
-const p1 = new Pessoa('Luiz', 'Miranda')
-const p2 = new Pessoa('Caio', 'Civitarese')
-console.log(p1)
-console.log(p2)
+const p1 = new Pessoa('Luiz', 'Miranda');
+const p2 = new Pessoa('Caio', 'Civitarese');
+console.log(p1);
+console.log(p2);

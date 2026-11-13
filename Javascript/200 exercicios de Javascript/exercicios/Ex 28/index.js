@@ -6,3 +6,13 @@ Descrição:
     Neste exercício, você deve criar um loop usando a estrutura de repetição
     while que percorra de 1 a 100 e calcule a soma de todos esses números.
 */
+
+let N = 1;
+let num = 1
+
+while (N !== 100){
+    N += num
+    num += 1
+};
+
+console.log(N)

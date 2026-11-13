@@ -7,3 +7,12 @@ Descrição:
     do-while que percorra todos os números de 1 a 20 e imprima no console apenas os
     números ímpares.
 */
+
+let N = 0
+
+while (N !== 20){
+    if (N % 2 == 0){
+        console.log(N);
+    };
+    N += 1
+}
